@@ -11,6 +11,6 @@ app.listen(3000, ()=> console.log("servido rodando na porta 3000"));  //porta do
 
 
 //comando:
-// npm init -y   => usado pra criar
+// npm init -y          => usado para criar um package.json nessesario para baixar/instalar o Express
 // npm install express  => usado para baixar o pacote Express
 // node app.js          => iniciar o servidor
